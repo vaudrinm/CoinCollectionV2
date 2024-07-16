@@ -1,0 +1,100 @@
+Id,Name,RetailValue,WholesaleValue,Year,Count,Description,IsSummary,IsUnique,Container,Bag
+,Assorted Mint Set,330,99,,33,,TRUE,FALSE,Large Bag,1
+,Generic Morgan Dollar,480,240,,16,,TRUE,FALSE,Large Bag,2
+1,Generic Morgan Dollar (1899),40,25,1899,1,,FALSE,TRUE,Large Bag,2
+2,Generic Morgan Dollar (1888),,,1888,1,,FALSE,TRUE,Large Bag,2
+,Generic Peace Dollar,784,420,,28,,TRUE,FALSE,Large Bag,3
+3,Peace Dollar (AG),30,16,1935,1,,FALSE,TRUE,Large Bag,3
+,Silver Half,187.5,112.5,,15,,TRUE,FALSE,Large Bag,4
+4,Half Cent ,80,48,1805,1,,FALSE,TRUE,Large Bag,4
+,Silver Quarter,275,165,,44,,TRUE,FALSE,Large Bag,5
+,Roll of Generic Wheat Cents,6,2,,2,,TRUE,FALSE,Large Bag,6
+,40% Half,25,15,,5,,TRUE,FALSE,Large Bag,6
+,War Nickle,11,2.75,,11,,TRUE,FALSE,Large Bag,7
+,Buffalo Nickle,13,3.25,,13,,TRUE,FALSE,Large Bag,8
+,Silver Dime,312.5,187.5,,125,,TRUE,FALSE,Large Bag,9
+,Misc Buffalo & V Nickles,51,12.75,,51,,TRUE,FALSE,Large Bag,10
+5,Quarter Book w/ 10 Quarters,62.5,37.5,,1,,FALSE,TRUE,Large Bag,n/a
+6,Nickle Book less War Nickles,10,10,,1,,FALSE,FALSE,Large Bag,n/a
+,Roll of Generic Nickles,4,4,,2,,TRUE,FALSE,Glass Jar,1
+,Two Dollar Bill,4,4,,2,,TRUE,FALSE,Glass Jar,1
+,Silver Certificate,21,10.5,,7,,TRUE,FALSE,Glass Jar,1
+,Modern Quarter,3,3,,12,,TRUE,FALSE,Glass Jar,2
+,Mixed Dimes and Nickles,1.1,1.1,,1,,TRUE,FALSE,Glass Jar,3
+,Mixed Cents,0.21,0.21,,1,,TRUE,FALSE,Glass Jar,4
+,Money Clip & Token,,,,1,,TRUE,FALSE,Glass Jar,5
+,Modern Half,7,7,,14,,TRUE,FALSE,Glass Jar,6
+,Eisenhauer & SBA Dollars,10,10,,7,,TRUE,FALSE,Glass Jar,7
+,Misc Foreign Coins,3.5,0.7,,1,,TRUE,FALSE,Glass Jar,8
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
+,,,,,,,TRUE,FALSE,,
