@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 
 namespace CoinCollection
 {
-    // TODO: cleanup using CsvHelper nuget libraries
     public static class CollectionReader
     {
         public static List<CollectionItem> RetrieveRawCollection(string collectionFilePath)
@@ -23,8 +22,9 @@ namespace CoinCollection
                 string[] row = new string[11];
                 while ((line = collectionItemsStream.ReadLine()) != null)
                 {
-                    if (!(line.StartsWith(",") || line.StartsWith("Id")))
+                    if (!(line.StartsWith(",") || line.StartsWith("ID")))
                     {
+                        // Id,Name,RetailValue,WholesaleValue,Year,Count,UnitWholesaleValue,RawWholesaleValue,Description,IsSummary,IsUnique,Container,Bag,GroupPreSort
                         row = line.Split(',');
                         CollectionItem rawItem = new CollectionItem
                         {
@@ -32,7 +32,7 @@ namespace CoinCollection
                             Name = row[1],
                             //RetailValue = double.Parse(row[2]),
                             //WholesaleValue = double.Parse(row[3]),
-                            Year = int.Parse(row[4]),
+                            Year = row[4],
                             Count = int.Parse(row[5]),
                             UnitRetailValue = double.Parse(row[6]),
                             UnitWholesaleValue = double.Parse(row[7]),
@@ -60,7 +60,7 @@ namespace CoinCollection
         // Intended to split summary items into individual items (as opposed to
         // distributing based on equivalent subdivisions
         // TODO: improve to bucket more flexibly as desired
-        public static List<CollectionItem> ComposeDiscreetItemList(List<CollectionItem> rawCollection)
+        public static List<CollectionItem> ComposeDiscreteItemList(List<CollectionItem> rawCollection, DistributionMode distributionMode)
         {
             List<CollectionItem> collectionData = new List<CollectionItem>();
             foreach (CollectionItem rawItem in rawCollection)
@@ -70,12 +70,16 @@ namespace CoinCollection
                     throw new ArgumentException($"{nameof(rawCollection)} should not contain summary items");
                 }
 
-                if (rawItem.Count == 1)
+                // if the rawItem count is == 1 or if we're distrubuting by original items as captured
+                // in the date file, simply add the item to the overall collection
+                if (rawItem.Count == 1 || distributionMode == DistributionMode.WholeItems)
                 {
                     collectionData.Add(rawItem);
                 }
                 else
                 {
+                    //// split this item up into individual pieces
+
                     // for the number of count
                     for (int intSubIndex = 1; intSubIndex <= rawItem.Count; intSubIndex++)
                     {
@@ -100,6 +104,7 @@ namespace CoinCollection
                             Description = rawItem.Description,
                             IsSummary = rawItem.IsSummary,
                             IsUnique = rawItem.IsUnique,
+                            GroupPreSort = rawItem.GroupPreSort
                         });
                     }
                 }

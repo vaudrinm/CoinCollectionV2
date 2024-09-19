@@ -10,17 +10,15 @@ namespace CoinCollection
 
         public string Name { get; set; } = string.Empty;
 
-        // TODO: should be calculated field
         public double RetailValue { get { return UnitRetailValue * Count; } }
 
-        // TODO: should be calculated field
         public double WholesaleValue { get { return UnitWholesaleValue * Count; } }
 
         public double UnitRetailValue { get; set; }
 
         public double UnitWholesaleValue { get; set; }
 
-        public int? Year { get; set; }
+        public string? Year { get; set; }
 
         public int Count { get; set; }
 
@@ -133,12 +131,32 @@ namespace CoinCollection
             return new CollectionItem
             {
                 Id = this.Id,
-                SubId = this.SubId,
+                //SubId = this.SubId,
                 Name = this.Name,
                 UnitRetailValue = this.UnitRetailValue,
                 UnitWholesaleValue = this.UnitWholesaleValue,
                 Year = this.Year,
                 Count = this.Count,
+                Description = this.Description,
+                IsSummary = this.IsSummary,
+                IsUnique = this.IsUnique,
+                GroupPreSort = this.GroupPreSort,
+            };
+        }
+
+
+
+        public CollectionItem CloneSingle()
+        {
+            return new CollectionItem
+            {
+                Id = this.Id,
+                //SubId = this.SubId,
+                Name = this.Name,
+                UnitRetailValue = this.UnitRetailValue,
+                UnitWholesaleValue = this.UnitWholesaleValue,
+                Year = this.Year,
+                Count = 1,
                 Description = this.Description,
                 IsSummary = this.IsSummary,
                 IsUnique = this.IsUnique,

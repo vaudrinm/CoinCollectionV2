@@ -7,14 +7,19 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
   <ItemGroup>
-    <None Remove="Resources\CoinCollectionInventory.csv" />
     <None Remove="Resources\CoinCollectionTestData.csv" />
+    <None Remove="Resources\CoinCollectionTestData %28copy%29.csv" />
+    <None Remove="Resources\CoinCollectionInventory-Simple-AdditionalPresort.csv" />
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="Resources\CoinCollectionInventory.csv" />
     <EmbeddedResource Include="Resources\CoinCollectionTestData.csv" />
+    <EmbeddedResource Include="Resources\CoinCollectionTestDataSmall.csv" />
+    <EmbeddedResource Include="Resources\CoinCollectionInventory-Simple-AdditionalPresort.csv" />
   </ItemGroup>
 
   <ItemGroup>

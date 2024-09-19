@@ -8,6 +8,7 @@ namespace CoinCollection
 {
     public class Constants
     {
+        public const string FilePath = "CoinCollection.Resources.";
         public const string TestFilePath = "CoinCollection.Resources.CoinCollectionTestData.csv";
         public const string RawDataFilePath = "CoinCollection.Resources.CoinCollectionInventory.csv";
     }

@@ -1,0 +1,63 @@
+ID,Name,RetailValue,WholesaleValue,Year,Count,UnitRetailValue,UnitWholesaleValue,Description,IsSummary,IsUnique,Container,Bag,GroupPreSort
+1,Assorted Mint Sets,280,84,,28,10,3,,TRUE,FALSE,Large Bag,1,
+1a,Mint Set,20,6,1970,2,10,3,proof set - loose,FALSE,FALSE,,,
+1b,Mint Set,20,6,1970,2,10,3,proof set - loose,FALSE,FALSE,,,
+1c,Mint Set,10,3,1970,1,10,3,proof set - case,FALSE,FALSE,,,
+1d,Mint Set,20,6,1972,2,10,3,proof set - loose,FALSE,FALSE,,,
+1e,Mint Set,10,3,1972,1,10,3,proof set - case,FALSE,FALSE,,,
+1f,Mint Set,20,6,1973,2,10,3,proof set - loose,FALSE,FALSE,,,
+1g,Mint Set,10,3,1973,1,10,3,proof set - case,FALSE,FALSE,,,
+1h,Mint Set,20,6,1974,2,10,3,proof set - loose,FALSE,FALSE,,,
+1i,Mint Set,10,3,1974,1,10,3,proof set - case,FALSE,FALSE,,,
+1j,Mint Set,20,6,1976,2,10,3,proof set - loose,FALSE,FALSE,,,
+1k,Mint Set,10,3,1976,1,10,3,proof set (1 of 2) - loose,FALSE,FALSE,,,
+1l,Mint Set,10,3,1976,1,10,3,proof set - loose,FALSE,FALSE,,,
+1m,Mint Set,20,6,1977,2,10,3,proof set - loose,FALSE,FALSE,,,
+1n,Mint Set,10,3,1977,1,10,3,proof set (1 of 2) - loose,FALSE,FALSE,,,
+1o,Mint Set,10,3,1977,1,10,3,proof set - case,FALSE,FALSE,,,
+1s,Mint Set,10,3,1982,1,10,3,proof set - case,FALSE,FALSE,,,
+1t,Mint Set,10,3,1983,1,10,3,proof set - case,FALSE,FALSE,,,
+1v,Mint Set,10,3,1984,1,10,3,proof set - case,FALSE,FALSE,,,
+1w,Mint Set,10,3,1984,1,10,3,proof set - case,FALSE,FALSE,,,
+1x,Mint Set,10,3,1984,1,10,3,proof set - case,FALSE,FALSE,,,
+1y,Mint Set,10,3,1985,1,10,3,proof set - case,FALSE,FALSE,,,
+2,Generic Morgan Dollar,480,240,1921,16,30,15,,TRUE,FALSE,Large Bag,2,
+2a,Generic Morgan Dollar (1921),480,240,1921,16,30,15,loose coins,FALSE,FALSE,,,
+2h,Generic Morgan Dollar (1899),40,25,1899,1,40,25,loose coins,FALSE,TRUE,Large Bag,2,1
+2i,Generic Morgan Dollar (1888),40,25,1888,1,40,25,loose coins,FALSE,TRUE,Large Bag,2,2
+3,Generic Peace Dollar,784,420,1922-1934,28,28,15,,FALSE,FALSE,Large Bag,3,
+4,Peace Dollar (AG),30,16,1935,1,30,16,,FALSE,TRUE,Large Bag,3,3
+5,Silver Half,187.5,112.5,1942-1964,15,12.5,7.5,,FALSE,FALSE,Large Bag,4,
+6,Half Cent,80,48,1805,1,80,48,,FALSE,TRUE,Large Bag,4,4
+7,Silver Quarter,275,165,1909-1964,44,6.25,3.75,,FALSE,FALSE,Large Bag,5,
+8,Roll of Generic Wheat Cents,3,1,1936,1,3,1,one sleave of 50c,FALSE,TRUE,,,5
+9,Generic Wheat Cents,7.08,2.36,1930s-1950s,59,0.12,0.04,,FALSE,FALSE,,,
+10,40% Half,25,15,1966-1968,5,5,3,,TRUE,FALSE,Large Bag,6,
+10a,40% Half,5,3,1966,1,5,3,,FALSE,FALSE,,,5
+10b,40% Half,5,3,1967,1,5,3,,FALSE,FALSE,,,6
+10c,40% Half,5,3,1967,1,5,3,,FALSE,FALSE,,,7
+10d,40% Half,5,3,1968,1,5,3,,FALSE,FALSE,,,3
+10e,40% Half,5,3,1968,1,5,3,,FALSE,FALSE,,,1
+11,War Nickle,11,2.75,1942-1945,11,1,0.25,,FALSE,FALSE,Large Bag,7,
+12,Buffalo Nickle,49,12.25,1916-1929,49,1,0.25,,FALSE,FALSE,Large Bag,8,
+13,Silver Dime,312.5,187.5,1910s-1950s,125,2.5,1.5,,FALSE,FALSE,Large Bag,9,
+14,V Nickles,16,4,1900s-1910s,16,1,0.25,,FALSE,FALSE,Large Bag,10,
+15,Quarter Book w/ 20 Quarters,64.75,39.75,1960-1991,1,64.75,39.75,,FALSE,TRUE,Large Bag,n/a,6
+16a,Silver Certificate,18,9,1957,6,3,1.5,,FALSE,FALSE,Glass Jar,1,
+16b,Silver Certificate,3,1.5,1935,1,3,1.5,,FALSE,TRUE,,,5
+17,Eisenhower Dollars,6,6,1971-1978,6,1,1,,TRUE,FALSE,Glass Jar,7,
+17a,Eisenhower Dollars,1,1,1971,1,1,1,,FALSE,FALSE,,,1
+17b,Eisenhower Dollars,1,1,1971,1,1,1,,FALSE,FALSE,,,2
+17c,Eisenhower Dollars,1,1,1971,1,1,1,,FALSE,FALSE,,,3
+17d,Eisenhower Dollars,1,1,1974,1,1,1,,FALSE,FALSE,,,5
+17e,Eisenhower Dollars,1,1,1976,1,1,1,,FALSE,FALSE,,,6
+17f,Eisenhower Dollars,1,1,1978,1,1,1,,FALSE,FALSE,,,7
+18,SBA Dollars,4,4,1979,4,1,1,,TRUE,FALSE,Glass Jar,7,
+18a,SBA Dollars,1,1,1979,1,1,1,,FALSE,FALSE,,,2
+18b,SBA Dollars,1,1,1979,1,1,1,,FALSE,FALSE,,,5
+18c,SBA Dollars,1,1,1979,1,1,1,,FALSE,FALSE,,,6
+18d,SBA Dollars,1,1,1979,1,1,1,,FALSE,FALSE,,,7
+19,Misc Foreign Coins,3.5,0.7,,1,3.5,0.7,,FALSE,TRUE,Glass Jar,8,5
+cash,Face Value Cash,8.68,8.68,,868,0.01,0.01,,FALSE,FALSE,,,
+20,Modern Half,7,7,1972-1976,14,0.5,0.5,,FALSE,FALSE,Glass Jar,6,
+21,Mercury Dime,21,15,1926,1,21,15,,FALSE,TRUE,,,7

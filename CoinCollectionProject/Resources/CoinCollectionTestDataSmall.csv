@@ -1,0 +1,9 @@
+Id,Name,RetailValue,WholesaleValue,Year,Count,UnitRetailValue,UnitWholesaleValue,Description,IsSummary,IsUnique,Container,Bag,GroupPreSort
+,Unique Items,320,96,1990,32,10,3,,TRUE,FALSE,Large Bag,
+1,Item 1,10,3,1234,1,10,3,,FALSE,TRUE,Large Bag,2,1
+7,Item 7,8,2,1888,1,8,2,,FALSE,TRUE,Large Bag,2,2
+,Unremarkable Items,320,96,,32,10,3,,TRUE,FALSE,Large Bag,1,
+10,Item 10,9,4.5,1980,3,3,1.5,,FALSE,FALSE,Large Bag,2,3
+12,Item 12,6,3,1970,3,2,1,,FALSE,FALSE,Large Bag,2,
+13,Item 13,5.25,3,1960,3,1.75,1,,FALSE,FALSE,Large Bag,2,
+14,Item 14,24,8.25,1950,3,8,2.75,,FALSE,FALSE,Large Bag,2,

@@ -8,16 +8,10 @@ namespace CoinCollection
 {
     public static class MathUtil
     {
-        public static double GetStandardDeviation(List<double> doubleList)
+        public static double StandardDeviation(this IEnumerable<double> values)
         {
-            double average = doubleList.Average();
-            double sumOfDerivation = 0;
-            foreach (double value in doubleList)
-            {
-                sumOfDerivation += (value - average) * (value - average);
-            }
-            double sumOfDerivationAverage = sumOfDerivation / (doubleList.Count - 1);
-            return Math.Sqrt(sumOfDerivationAverage - (average * average));
+            double avg = values.Average();
+            return Math.Sqrt(values.Average(v => Math.Pow(v - avg, 2)));
         }
     }
 }

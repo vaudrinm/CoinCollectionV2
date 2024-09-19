@@ -1,0 +1,174 @@
+Cmd Args:   Retail SplitItems true true 7 CoinCollectionInventory-Simple-AdditionalPresort.csv
+Share Retail Value Standard Deviation:   0.004948716593037713
+Share Wholesale Value Standard Deviation:   3.105574316730273
+
+Share ID:   1
+Retail Value:   $393.72
+Wholesale Value:   $209.83
+Key,Id,SubId,Name,RetailValue,WholesaleValue,UnitRetailValue,UnitWholesaleValue,Year,Count,Description,IsSummary,IsUnique,GroupPreSort
+2a,2a,,Generic Morgan Dollar (1921),60,30,30,15,1921,2,loose coins,False,False,-1
+3,3,,Generic Peace Dollar,112,60,28,15,1922-1934,4,,False,False,-1
+5,5,,Silver Half,37.5,22.5,12.5,7.5,1942-1964,3,,False,False,-1
+7,7,,Silver Quarter,37.5,22.5,6.25,3.75,1909-1964,6,,False,False,-1
+9,9,,Generic Wheat Cents,0.96,0.32,0.12,0.04,1930s-1950s,8,,False,False,-1
+11,11,,War Nickle,2,0.5,1,0.25,1942-1945,2,,False,False,-1
+12,12,,Buffalo Nickle,5,1.25,1,0.25,1916-1929,5,,False,False,-1
+13,13,,Silver Dime,45,27,2.5,1.5,1910s-1950s,18,,False,False,-1
+14,14,,V Nickles,2,0.5,1,0.25,1900s-1910s,2,,False,False,-1
+cash,cash,,Face Value Cash,1.26,1.26,0.01,0.01,,126,,False,False,-1
+20,20,,Modern Half,1.5,1.5,0.5,0.5,1972-1976,3,,False,False,-1
+2h,2h,,Generic Morgan Dollar (1899),40,25,40,25,1899,1,loose coins,False,True,1
+10e,10e,,40% Half,5,3,5,3,1968,1,,False,False,1
+17a,17a,,Eisenhower Dollars,1,1,1,1,1971,1,,False,False,1
+1c,1c,,Mint Set,10,3,10,3,1970,1,proof set - case,False,False,-1
+1h,1h,,Mint Set,10,3,10,3,1974,1,proof set - loose,False,False,-1
+1t,1t,,Mint Set,10,3,10,3,1983,1,proof set - case,False,False,-1
+1k,1k,,Mint Set,10,3,10,3,1976,1,"""proof set (1 of 2) - loose""",False,False,-1
+16a,16a,,Silver Certificate,3,1.5,3,1.5,1957,1,,False,False,-1
+
+
+Share ID:   2
+Retail Value:   $393.71
+Wholesale Value:   $208.07
+2a,2a,,Generic Morgan Dollar (1921),60,30,30,15,1921,2,loose coins,False,False,-1
+3,3,,Generic Peace Dollar,140,75,28,15,1922-1934,5,,False,False,-1
+5,5,,Silver Half,12.5,7.5,12.5,7.5,1942-1964,1,,False,False,-1
+7,7,,Silver Quarter,37.5,22.5,6.25,3.75,1909-1964,6,,False,False,-1
+9,9,,Generic Wheat Cents,0.96,0.32,0.12,0.04,1930s-1950s,8,,False,False,-1
+11,11,,War Nickle,2,0.5,1,0.25,1942-1945,2,,False,False,-1
+12,12,,Buffalo Nickle,6,1.5,1,0.25,1916-1929,6,,False,False,-1
+13,13,,Silver Dime,45,27,2.5,1.5,1910s-1950s,18,,False,False,-1
+14,14,,V Nickles,2,0.5,1,0.25,1900s-1910s,2,,False,False,-1
+cash,cash,,Face Value Cash,1.25,1.25,0.01,0.01,,125,,False,False,-1
+20,20,,Modern Half,1.5,1.5,0.5,0.5,1972-1976,3,,False,False,-1
+2i,2i,,Generic Morgan Dollar (1888),40,25,40,25,1888,1,loose coins,False,True,2
+17b,17b,,Eisenhower Dollars,1,1,1,1,1971,1,,False,False,2
+18a,18a,,SBA Dollars,1,1,1,1,1979,1,,False,False,2
+1b,1b,,Mint Set,10,3,10,3,1970,1,proof set - loose,False,False,-1
+1f,1f,,Mint Set,10,3,10,3,1973,1,proof set - loose,False,False,-1
+1j,1j,,Mint Set,10,3,10,3,1976,1,proof set - loose,False,False,-1
+1m,1m,,Mint Set,10,3,10,3,1977,1,proof set - loose,False,False,-1
+16a,16a,,Silver Certificate,3,1.5,3,1.5,1957,1,,False,False,-1
+
+
+Share ID:   3
+Retail Value:   $393.72
+Wholesale Value:   $203.17
+2a,2a,,Generic Morgan Dollar (1921),90,45,30,15,1921,3,loose coins,False,False,-1
+3,3,,Generic Peace Dollar,112,60,28,15,1922-1934,4,,False,False,-1
+5,5,,Silver Half,12.5,7.5,12.5,7.5,1942-1964,1,,False,False,-1
+7,7,,Silver Quarter,43.75,26.25,6.25,3.75,1909-1964,7,,False,False,-1
+9,9,,Generic Wheat Cents,1.2,0.4,0.12,0.04,1930s-1950s,10,,False,False,-1
+11,11,,War Nickle,1,0.25,1,0.25,1942-1945,1,,False,False,-1
+12,12,,Buffalo Nickle,8,2,1,0.25,1916-1929,8,,False,False,-1
+13,13,,Silver Dime,45,27,2.5,1.5,1910s-1950s,18,,False,False,-1
+14,14,,V Nickles,2,0.5,1,0.25,1900s-1910s,2,,False,False,-1
+cash,cash,,Face Value Cash,1.27,1.27,0.01,0.01,,127,,False,False,-1
+20,20,,Modern Half,1,1,0.5,0.5,1972-1976,2,,False,False,-1
+4,4,,Peace Dollar (AG),30,16,30,16,1935,1,,False,True,3
+10d,10d,,40% Half,5,3,5,3,1968,1,,False,False,3
+17c,17c,,Eisenhower Dollars,1,1,1,1,1971,1,,False,False,3
+1d,1d,,Mint Set,10,3,10,3,1972,1,proof set - loose,False,False,-1
+1e,1e,,Mint Set,10,3,10,3,1972,1,proof set - case,False,False,-1
+1x,1x,,Mint Set,10,3,10,3,1984,1,proof set - case,False,False,-1
+1j,1j,,Mint Set,10,3,10,3,1976,1,proof set - loose,False,False,-1
+
+
+Share ID:   4
+Retail Value:   $393.71
+Wholesale Value:   $210.23
+2a,2a,,Generic Morgan Dollar (1921),30,15,30,15,1921,1,loose coins,False,False,-1
+3,3,,Generic Peace Dollar,112,60,28,15,1922-1934,4,,False,False,-1
+5,5,,Silver Half,25,15,12.5,7.5,1942-1964,2,,False,False,-1
+7,7,,Silver Quarter,43.75,26.25,6.25,3.75,1909-1964,7,,False,False,-1
+9,9,,Generic Wheat Cents,0.72,0.24,0.12,0.04,1930s-1950s,6,,False,False,-1
+11,11,,War Nickle,2,0.5,1,0.25,1942-1945,2,,False,False,-1
+12,12,,Buffalo Nickle,8,2,1,0.25,1916-1929,8,,False,False,-1
+13,13,,Silver Dime,45,27,2.5,1.5,1910s-1950s,18,,False,False,-1
+14,14,,V Nickles,2,0.5,1,0.25,1900s-1910s,2,,False,False,-1
+cash,cash,,Face Value Cash,1.24,1.24,0.01,0.01,,124,,False,False,-1
+20,20,,Modern Half,1,1,0.5,0.5,1972-1976,2,,False,False,-1
+6,6,,Half Cent,80,48,80,48,1805,1,,False,True,4
+1a,1a,,Mint Set,10,3,10,3,1970,1,proof set - loose,False,False,-1
+1d,1d,,Mint Set,10,3,10,3,1972,1,proof set - loose,False,False,-1
+1i,1i,,Mint Set,10,3,10,3,1974,1,proof set - case,False,False,-1
+1o,1o,,Mint Set,10,3,10,3,1977,1,proof set - case,False,False,-1
+16a,16a,,Silver Certificate,3,1.5,3,1.5,1957,1,,False,False,-1
+
+
+Share ID:   5
+Retail Value:   $393.72
+Wholesale Value:   $202.28
+2a,2a,,Generic Morgan Dollar (1921),90,45,30,15,1921,3,loose coins,False,False,-1
+3,3,,Generic Peace Dollar,112,60,28,15,1922-1934,4,,False,False,-1
+5,5,,Silver Half,37.5,22.5,12.5,7.5,1942-1964,3,,False,False,-1
+7,7,,Silver Quarter,37.5,22.5,6.25,3.75,1909-1964,6,,False,False,-1
+9,9,,Generic Wheat Cents,0.96,0.32,0.12,0.04,1930s-1950s,8,,False,False,-1
+11,11,,War Nickle,1,0.25,1,0.25,1942-1945,1,,False,False,-1
+12,12,,Buffalo Nickle,9,2.25,1,0.25,1916-1929,9,,False,False,-1
+13,13,,Silver Dime,42.5,25.5,2.5,1.5,1910s-1950s,17,,False,False,-1
+14,14,,V Nickles,2,0.5,1,0.25,1900s-1910s,2,,False,False,-1
+cash,cash,,Face Value Cash,1.26,1.26,0.01,0.01,,126,,False,False,-1
+20,20,,Modern Half,0.5,0.5,0.5,0.5,1972-1976,1,,False,False,-1
+8,8,,Roll of Generic Wheat Cents,3,1,3,1,1936,1,one sleave of 50c,False,True,5
+10a,10a,,40% Half,5,3,5,3,1966,1,,False,False,5
+16b,16b,,Silver Certificate,3,1.5,3,1.5,1935,1,,False,True,5
+17d,17d,,Eisenhower Dollars,1,1,1,1,1974,1,,False,False,5
+18b,18b,,SBA Dollars,1,1,1,1,1979,1,,False,False,5
+19,19,,Misc Foreign Coins,3.5,0.7,3.5,0.7,,1,,False,True,5
+1y,1y,,Mint Set,10,3,10,3,1985,1,proof set - case,False,False,-1
+1h,1h,,Mint Set,10,3,10,3,1974,1,proof set - loose,False,False,-1
+1s,1s,,Mint Set,10,3,10,3,1982,1,proof set - case,False,False,-1
+1n,1n,,Mint Set,10,3,10,3,1977,1,"""proof set (1 of 2) - loose""",False,False,-1
+16a,16a,,Silver Certificate,3,1.5,3,1.5,1957,1,,False,False,-1
+
+
+Share ID:   6
+Retail Value:   $393.71
+Wholesale Value:   $210.33
+2a,2a,,Generic Morgan Dollar (1921),60,30,30,15,1921,2,loose coins,False,False,-1
+3,3,,Generic Peace Dollar,84,45,28,15,1922-1934,3,,False,False,-1
+5,5,,Silver Half,37.5,22.5,12.5,7.5,1942-1964,3,,False,False,-1
+7,7,,Silver Quarter,37.5,22.5,6.25,3.75,1909-1964,6,,False,False,-1
+9,9,,Generic Wheat Cents,1.3199999999999998,0.44,0.12,0.04,1930s-1950s,11,,False,False,-1
+11,11,,War Nickle,2,0.5,1,0.25,1942-1945,2,,False,False,-1
+12,12,,Buffalo Nickle,7,1.75,1,0.25,1916-1929,7,,False,False,-1
+13,13,,Silver Dime,45,27,2.5,1.5,1910s-1950s,18,,False,False,-1
+14,14,,V Nickles,3,0.75,1,0.25,1900s-1910s,3,,False,False,-1
+cash,cash,,Face Value Cash,1.1400000000000001,1.1400000000000001,0.01,0.01,,114,,False,False,-1
+20,20,,Modern Half,0.5,0.5,0.5,0.5,1972-1976,1,,False,False,-1
+10b,10b,,40% Half,5,3,5,3,1967,1,,False,False,6
+15,15,,Quarter Book w/ 20 Quarters,64.75,39.75,64.75,39.75,1960-1991,1,,False,True,6
+17e,17e,,Eisenhower Dollars,1,1,1,1,1976,1,,False,False,6
+18c,18c,,SBA Dollars,1,1,1,1,1979,1,,False,False,6
+1a,1a,,Mint Set,10,3,10,3,1970,1,proof set - loose,False,False,-1
+1f,1f,,Mint Set,10,3,10,3,1973,1,proof set - loose,False,False,-1
+1v,1v,,Mint Set,10,3,10,3,1984,1,proof set - case,False,False,-1
+1m,1m,,Mint Set,10,3,10,3,1977,1,proof set - loose,False,False,-1
+16a,16a,,Silver Certificate,3,1.5,3,1.5,1957,1,,False,False,-1
+
+
+Share ID:   7
+Retail Value:   $393.72
+Wholesale Value:   $208.08
+2a,2a,,Generic Morgan Dollar (1921),90,45,30,15,1921,3,loose coins,False,False,-1
+3,3,,Generic Peace Dollar,112,60,28,15,1922-1934,4,,False,False,-1
+5,5,,Silver Half,25,15,12.5,7.5,1942-1964,2,,False,False,-1
+7,7,,Silver Quarter,37.5,22.5,6.25,3.75,1909-1964,6,,False,False,-1
+9,9,,Generic Wheat Cents,0.96,0.32,0.12,0.04,1930s-1950s,8,,False,False,-1
+11,11,,War Nickle,1,0.25,1,0.25,1942-1945,1,,False,False,-1
+12,12,,Buffalo Nickle,6,1.5,1,0.25,1916-1929,6,,False,False,-1
+13,13,,Silver Dime,45,27,2.5,1.5,1910s-1950s,18,,False,False,-1
+14,14,,V Nickles,3,0.75,1,0.25,1900s-1910s,3,,False,False,-1
+cash,cash,,Face Value Cash,1.26,1.26,0.01,0.01,,126,,False,False,-1
+20,20,,Modern Half,1,1,0.5,0.5,1972-1976,2,,False,False,-1
+10c,10c,,40% Half,5,3,5,3,1967,1,,False,False,7
+17f,17f,,Eisenhower Dollars,1,1,1,1,1978,1,,False,False,7
+18d,18d,,SBA Dollars,1,1,1,1,1979,1,,False,False,7
+21,21,,Mercury Dime,21,15,21,15,1926,1,,False,True,7
+1b,1b,,Mint Set,10,3,10,3,1970,1,proof set - loose,False,False,-1
+1g,1g,,Mint Set,10,3,10,3,1973,1,proof set - case,False,False,-1
+1w,1w,,Mint Set,10,3,10,3,1984,1,proof set - case,False,False,-1
+1l,1l,,Mint Set,10,3,10,3,1976,1,proof set - loose,False,False,-1
+16a,16a,,Silver Certificate,3,1.5,3,1.5,1957,1,,False,False,-1
+
